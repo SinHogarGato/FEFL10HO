@@ -1,0 +1,44 @@
+header {
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia;
+    font-weight: 900;
+    color: red;
+}
+
+#cat {
+    border-radius: 30px;
+}
+
+.meat {
+    border-radius: 30px;
+    background-color: rgba(63, 63, 63, 0.637);
+}
+
+.icon {
+    padding: 5px;
+    height: 37px;
+    width: 37px;
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    border-radius: 10px;
+    color: red;
+    position: fixed;
+    bottom: 0px;
+    left: 100px;
+}
+
+.lite {
+    height: 20px;
+}
+
+.spacing {
+    height: 50px;
+}
+
+.super {
+    height: 5000px;
+}
